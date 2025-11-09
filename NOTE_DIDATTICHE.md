@@ -13,7 +13,6 @@
 4. Includere requisiti (Python 3.x)
 
 **Assegnato a:** _Nome Studente_
-```
 
 ---
 
